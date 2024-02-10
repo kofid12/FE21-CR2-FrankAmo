@@ -1,0 +1,104 @@
+                                                body {
+                                                    background-color: #f8f9fa;
+                                                }
+                                                
+                                                .hero {
+                                                    height: 30vh;
+                                                    display: flex;
+                                                    justify-content: center;
+                                                    align-items: center;
+                                                    background-image: url(https://pixabay.com/photos/clock-money-growth-grow-time-2696234/);
+                                                }
+                                                
+                                                .container {
+                                                    margin-top: 30px;
+                                                }
+                                                
+                                                .card {
+                                                    margin: 10px;
+                                                    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                                                    transition: box-shadow 0.3s ease;
+                                                }
+                                                
+                                                .card:hover {
+                                                    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+                                                }
+                                                
+                                                .hero {
+                                                    height: 30vh;
+                                                    display: flex;
+                                                    justify-content: center;
+                                                    align-items: center;
+                                                    font-style: italic;
+                                                    text-align: center;
+                                                    color: white;
+                                                    background-image: url(https://cdn.pixabay.com/photo/2016/09/01/19/53/pocket-watch-1637396_1280.jpg);
+                                                }
+                                                
+                                                footer {
+                                                    background-color: black;
+                                                    text-align: center;
+                                                    padding: 5px;
+                                                    height: 25vh;
+                                                }
+                                                
+                                                .social-icons a {
+                                                    margin: 0 1px;
+                                                    color: #333;
+                                                    text-decoration: none;
+                                                }
+                                                
+                                                .newsletter {
+                                                    margin-top: 20px;
+                                                }
+                                                
+                                                .newsletter input[type=email] {
+                                                    margin: 0 5px;
+                                                    padding: 1px;
+                                                    border: 2px solid #ddd;
+                                                    border-radius: 5px;
+                                                }
+                                                
+                                                .social-icons button {
+                                                    margin: 0 2px;
+                                                    padding: 10px;
+                                                    border: none;
+                                                    background-color: white;
+                                                    border-radius: 5px;
+                                                    cursor: pointer;
+                                                }
+                                                
+                                                .social-icons button a {
+                                                    color: white;
+                                                    text-decoration: none;
+                                                }
+                                                
+                                                .social-icons button a i {
+                                                    font-size: 16px;
+                                                    color: black;
+                                                }
+                                                
+                                                .newsletter {
+                                                    margin-top: 20px;
+                                                }
+                                                
+                                                .newsletter input[type=email] {
+                                                    margin: 0 5px;
+                                                    padding: 2px;
+                                                    border: 1px solid #ddd;
+                                                    border-radius: 5px;
+                                                }
+                                                
+                                                .newsletter button {
+                                                    padding: 2px 20px;
+                                                    border: none;
+                                                    background-color: #007BFF;
+                                                    color: white;
+                                                    cursor: pointer;
+                                                    border-radius: 5px;
+                                                }
+                                                
+                                                .newsletter {
+                                                    color: white;
+                                                    font-style: italic;
+                                                }
